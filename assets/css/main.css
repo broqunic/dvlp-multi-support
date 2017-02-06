@@ -44,7 +44,6 @@ img { max-width: 100%; }
 
 
 /**** Media queries ****/
-
 /** Tablette **/
 @media only screen and ( min-width: 48em ) {
 	.column-1-2 { width: 50%; }
